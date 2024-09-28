@@ -10,3 +10,7 @@ Making my custom gymnasium environment on the game of RISK global domination, an
 
 https://github.com/MX-2000/RiskBot_RL
 
+## Kaggle
+Code from my kaggle competitions and dataset analysis. 
+
+https://github.com/MX-2000/Kaggle/
