@@ -1,5 +1,10 @@
 # Portfolio
 
+## EverRAG
+EverRAG transforms your Evernote into an intelligent, searchable database.
+
+https://github.com/MX-2000/EverRAG
+
 ## RL_playground
 A repository containing different RL algorithms implementations on basic environments
 
