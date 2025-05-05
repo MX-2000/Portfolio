@@ -1,5 +1,25 @@
 # Portfolio
 
+# Publications
+
+## A Scalable Kernel Approach to Reinforcement Learning
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5205228
+
+## Making a fast RL env in C with pufferlib
+https://medium.com/me/stats/post/ff282af69c98
+
+## What are GAEs (Generalized Advantage Estimations) in Reinforcement Learning?
+https://medium.com/p/28c70dbca01f
+
+## Policy evaluation in Reinforcement Learning: Understanding Eligibility traces
+[https://medium.com/me/stats/post/34dbc9ab2992](https://medium.com/p/34dbc9ab2992)
+
+# Projects & Contributions
+
+## PufferLib
+Pufferlib is a high-performance toolkit for research and industry with optimized parallel simulation, environments that run and train at 1M+ steps/second, and tons of quality of life improvements for practitioners.
+https://puffer.ai/
+
 ## EverRAG
 EverRAG transforms your Evernote into an intelligent, searchable database.
 
