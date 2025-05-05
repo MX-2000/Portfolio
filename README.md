@@ -3,6 +3,8 @@
 # Publications
 
 ## A Scalable Kernel Approach to Reinforcement Learning
+We propose a self-contained, detailed, description of a scalable standardized kernel (RKHS) approach to popular reinforcement learning algorithms, where agents interact with environments having continuous states and discrete actions spaces, dealing with possibly unstructured data. These algorithms, namely Q-Learning, Actor Critic, Q-Value Gradient, Hamilton-Jacobi-Bellman (HJB) and Heuristic Controls, are implemented with a RKHS library using default settings. We show that this approach to reinforcement learning is accurate, robust, sample efficient and versatile, as we benchmark our algorithms in this paper on simple games and use them as a baseline for our applications.
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5205228
 
 ## Making a fast RL env in C with pufferlib
