@@ -8,7 +8,7 @@ We propose a self-contained, detailed, description of a scalable standardized ke
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5205228
 
 ## Making a fast RL env in C with pufferlib
-https://medium.com/me/stats/post/ff282af69c98
+[https://medium.com/me/stats/post/ff282af69c98](https://medium.com/p/ff282af69c98)
 
 ## What are GAEs (Generalized Advantage Estimations) in Reinforcement Learning?
 https://medium.com/p/28c70dbca01f
